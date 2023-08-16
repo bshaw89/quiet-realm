@@ -30,8 +30,13 @@ All places have a sense of past. So should a sound world, to seem real. Sometime
 
 > Write out the **character** and **history** of each sound.
 
+#### Events
+Events are usually transitions within the sound world. The traveler moves from one area of the world to another, or something happens to the landscape of the world itself, or a new character appears.
 
 #### Complexity
 A world that is traversable, deep, unobscured, allows for a complex experience for the traveler.
+
+#### Nonlinear Worlds
+A sound world in which each time it is visited, the traveler enters and exits from unknown points, and traverses its areas in an unknown order. A world of this type has a series of sounds which overlap and bleed into each other, so that no matter where the traveler goes, the world remains a coherent whole. Predetermined variations can be included which are not experience each visit, as well as random elements to sounds which are never repeated, or even sounds which do not appear each visit. There is an element of probability here which will be controlled with predetermined rules. There is beauty in knowing that what a traveler experiences in a nonlinear world may never be experienced by anyone else: a certain harmony, an unexpected melody, a coincidental rhythm. There may be sections of the world which are designed to produce more climactic 
 
 
