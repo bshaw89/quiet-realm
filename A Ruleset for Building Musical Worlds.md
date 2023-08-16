@@ -25,8 +25,10 @@ Variation with each visit to a linear sound world is created by what the travele
 A traveler should be able to easily discern each sound, as these are the features of the landscape to be explored, though the depth of each sound can be very great, so that the traveler discovers new angles and details with each visit.
 
 #### History
-All places have a sense of past. So should a sound world, to seem real. Sometimes this is achieved by the nature of the sound: if it is a sound familiar in some way to the traveler, there will be a sense of past projected onto the world. For the purposes of this ruleset, we will take a different approach:
-*What is the story of each sound? Each must be like a character -- who is it? What does it represent? What is its personal history? *
+All places have a sense of past. So should a sound world, to seem real. Sometimes this is achieved by the nature of the sound: if it is a sound familiar in some way to the traveler, there will be a sense of past projected onto the world by the traveler. For the purposes of this ruleset, we will take a more direct approach to history:
+*What is the story of each sound? Each must be like a character -- who? What does the character represent? What is its personal history? A low, sweeping synth pad may be Regret, underpinning every other feature of the world, or it may be a tragic steward of the world who longs for his lost love who was taken by sickness. The sound can represent the character and their story or state. The character can be a concept (like 'the decay of a technological society'), a person (like 'the wise keeper of the grove'), an object (like 'the derelict hulk on the ocean floor'). The important thing is what has happened to the character. This informs how the sound will move through time, its motivation for movement, what it wants.*
+
+> Write out the **character** and **history** of each sound.
 
 
 #### Complexity
