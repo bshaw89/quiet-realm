@@ -50,5 +50,5 @@ For a world to seem real, there must be a certain amount of unpredictability, th
 
 This ruleset prescribes randomness within a set of carefully crafted parameters that serve each world and its characters and events. Certain characters or events can link worlds, as can certain repeating rules. Elements that can be recognized between two different worlds will link them, even if the connection goes unobserved by the traveler.
 
-# Mystery
-For the purposes of this ruleset, each sound world should begin by creating a sense of curiosity within the traveler. This can be achieved through History, and especially through placing only a single character within the entrance to the world. 
+## Mystery
+For the purposes of this ruleset, each sound world should begin by creating a sense of curiosity within the traveler. This can be achieved through History, and especially through placing only a single character within the entrance to the world. The character should be starting to say something, the meaning of which is yet unknown.
