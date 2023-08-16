@@ -10,5 +10,11 @@ Variation with each visit to a linear sound world is created by what the travele
 
 ## Elements of a World
 #### Sound
-A sound world
+	A sound world must have at least one sound moving through time.
+
+#### Time
+	The sound must exist for a unit of time.
+
+#### On World Length
+	Is a single note a world? It has an entrance and an exit and a sound, so in theory, yes. It appears to depend on length -- the length of a sound determines whether a traveler has time to enter, explore, and exit. A short single note does not seem to contain a world that can be visited. A minimum length, if a single sound, or a minimum of two sounds if length is very short. It may be that the ability to repeatedly visit a world is more important in the case
 
