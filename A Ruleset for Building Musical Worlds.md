@@ -13,16 +13,23 @@ Variation with each visit to a linear sound world is created by what the travele
 	A sound world must have at least one sound moving through time. This makes the landscape of the place.
 
 #### Time
-	The sound must exist for a unit of time.
+	The sound must exist for a unit of time. This makes the landscape traversable.
 
-#### On World Length
-	Is a single note a world? It has an entrance and an exit and a sound, so in theory, yes. It appears to depend on length -- the length of a sound determines whether a traveler has time to enter, explore, and exit. A short single note does not seem to contain a world that can be visited. A minimum length, if a single sound, or a minimum of two sounds if length is very short. It may be that the ability to repeatedly visit a world is more important in the case of very small worlds.
+#### On Small Worlds
+>*Is a single note a world? It has an entrance and an exit and a sound, so in theory, yes. Whether it is traversable depends on length -- the length of a sound determines whether a traveler has time to enter, explore, and exit. A short single note does not seem to contain a world that is traversable; a minimum length, if a single sound, is required, or a minimum of two sounds if length is very short. It may be that the ability to repeatedly visit a world is more important in the case of very small worlds such as these.*
 
 #### Number of Sounds
 	This is a matter of preference, but for the purposes of creating a ruleset, heed the following: 
 *A world should be made of only as many sounds as do not obscure each other.*
+
 A traveler should be able to easily discern each sound, as these are the features of the landscape to be explored, though the depth of each sound can be very great, so that the traveler discovers new angles and details with each visit.
 
 #### History
+All places have a sense of past. So should a sound world, to seem real. Sometimes this is achieved by the nature of the sound: if it is a sound familiar in some way to the traveler, there will be a sense of past projected onto the world. For the purposes of this ruleset, we will take a different approach:
+*What is the story of each sound? Each must be like a character -- who is it? What does it represent? What is its personal history? *
+
+
+#### Complexity
+A world that is traversable, deep, unobscured, allows for a complex experience for the traveler.
 
 
