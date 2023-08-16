@@ -1,6 +1,4 @@
 {
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-CA"
-  ]
+  "spellcheckLanguages": null
 }
