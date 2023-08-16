@@ -1,9 +1,14 @@
 ----
 ## Sound World
-A sound world is an auditory place which exists for a limited time. Sonic events happen in this world on a timeline, which the traveler usually explores in a linear direction in the instance of recorded worlds for listening, as opposed to recorded worlds for inhabiting.
+A sound world is an auditory space which exists for a limited time. Sonic events happen in this world on a timeline, which the traveler usually explores in a linear direction in the instance of recorded worlds for listening, as opposed to recorded worlds for inhabiting. Nonlinear sound worlds are explored either through random pathways, or through pathways chosen by the traveler.
 
 ## Direction of Time
 By default, a sound world is explored by the traveler in a linear direction, entering the sound world each visit from the same point and leaving through the same exit, passing by all the areas of the world in an order that never changes.
+
+## Agency of the Traveler
+The traveler does not typically have much agency within a sound world itself, only making choices in the thoughts or pre-existing emotions they bring with them, and any external factors used to augment the visit (mood lighting, being alone or in company, walking or sitting, etc.)
+
+## List
 
 ## Variation Between Visits
 Variation with each visit to a linear sound world is created by what the traveler brings with them, consciously or unconsciously. Travelers bring thoughts, emotions, experiences, memories, desires. It's worth noting travelers will bring these things to a nonlinear sound world also.
@@ -40,5 +45,7 @@ A world that is traversable, deep, unobscured, allows for a complex experience f
 A sound world in which each time it is visited, the traveler enters and exits from unknown points, and traverses its areas in an unknown order. A world of this type has a series of sounds which overlap and bleed into each other, so that no matter where the traveler goes, the world remains a coherent whole. Predetermined variations can be included which are not experience each visit, as well as random elements to sounds which are never repeated, or even sounds which do not appear each visit. There is an element of probability here which will be controlled with predetermined rules. There is beauty in knowing that what a traveler experiences in a nonlinear world may never be experienced by anyone else: a certain harmony, an unexpected melody, a coincidental rhythm. There may be sections of the world which are designed to produce more climactic events, and others where events are sparse. In this way a 'map of the world' can be created to prepare for randomness to occur, with clearly marked areas of controlled randomness, an organic system.
 
 ## On Randomness
-Pure randomness is not as exciting as controlled randomness. This ruleset prescribes randomness within a set of carefully crafted parameters that serve each world and its characters and events. Rando
+For a world to seem real, there must be a certain amount of unpredictability, the feeling that things are happening irrespective of the traveler, and maybe even events that surprise the characters of the world.
+
+This ruleset prescribes randomness within a set of carefully crafted parameters that serve each world and its characters and events. Certain characters or events can link worlds, as can certain repeating rules. Elements that can be recognized between two different worlds will link them, even if the connection goes unobserved by the traveler.
 
