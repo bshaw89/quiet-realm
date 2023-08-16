@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index.md",
+                "file": "2023-08-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Index.md",
+                "file": "2023-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Index.md",
+                "file": "2023-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Index.md"
+                "file": "2023-08-16.md"
               }
             }
+          },
+          {
+            "id": "3db2f5a8229c42b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,6 +155,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eb47b5485d9e26f",
-  "lastOpenFiles": []
+  "active": "b93bb7e92b0413fc",
+  "lastOpenFiles": [
+    "000 Index.md"
+  ]
 }
