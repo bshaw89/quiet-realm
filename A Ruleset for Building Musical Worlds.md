@@ -1,8 +1,14 @@
 ----
-# Sound World
+# Definitons
+### Sound World
 A sound world is an auditory space which exists for a limited time. Sonic events happen in this world on a timeline, which the traveler usually explores in a linear direction in the instance of recorded worlds for listening, as opposed to recorded worlds for inhabiting. Nonlinear sound worlds are explored either through random pathways, or through pathways chosen by the traveler.
 
-# Direction of Time
+### Traveler
+A person who enters the sound world through listening.
+
+### Visit
+A visit is a period of time in which the traveler enters, explores, and exits the sound world. In other words, a single listening of a sound world.
+## Direction of Time
 By default, a sound world is explored by the traveler in a linear direction, entering the sound world each visit from the same point and leaving through the same exit, passing by all the areas of the world in an order that never changes.
 
 # Agency of the Traveler
@@ -67,3 +73,7 @@ Any traveler will pause to rest at times while exploring. A sound world should a
 
 # Combining Two Random Ideas
 Trying to make sense of how two unrelated ideas fit together can birth a unique new idea. Combine pairs of unrelated ideas.
+
+
+# Nonlinearity and Power
+One way to do nonlinear worldbuilding could be to consider power struggles between the sounds or 'characters' of the world. Each visit, different characters may win power, therefore they are the ones who feature more prominently in the world.
