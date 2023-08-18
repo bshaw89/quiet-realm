@@ -7,7 +7,7 @@ A sound world is an auditory space which exists for a limited time. Sonic events
 A person who enters the sound world through listening.
 
 ### Visit
-A visit is a period of time in which the traveler enters, explores, and exits the sound world. In other words, a single listening of a sound world.
+A visit is a period of time in which the traveler enters, explores, and exits the sound world. In other words, a single listen of a sound world.
 ## Direction of Time
 By default, a sound world is explored by the traveler in a linear direction, entering the sound world each visit from the same point and leaving through the same exit, passing by all the areas of the world in an order that never changes.
 
@@ -30,7 +30,7 @@ Variation with each visit to a linear sound world is created by what the travele
 #### On Small Worlds
 >*Is a single note a world? It has an entrance and an exit and a sound, so in theory, yes. Whether it is traversable depends on length -- the length of a sound determines whether a traveler has time to enter, explore, and exit. A short single note does not seem to contain a world that is traversable; for a single sound, a minimum length is required, or a minimum of two sounds if length is very short. It may be that the ability to repeatedly visit a world is more important in the case of very small worlds such as these.*
 
-#### Number of Sounds
+#### Number of Sounds or World Density
 	This is a matter of preference, but for the purposes of creating a ruleset, heed the following: 
 *A world should be made of only as many sounds as do not obscure each other.*
 
@@ -49,7 +49,9 @@ Events are usually transitions within the sound world. The traveler moves from o
 A world that is traversable, deep, unobscured, allows for a complex experience for the traveler.
 
 #### Nonlinear Worlds
-A sound world in which each time it is visited, the traveler enters and exits from unknown points, and traverses its areas in an unknown order. A world of this type has a series of sounds which overlap and bleed into each other, so that no matter where the traveler goes, the world remains a coherent whole. Predetermined variations can be included which are not experience each visit, as well as random elements to sounds which are never repeated, or even sounds which do not appear each visit. There is an element of probability here which will be controlled with predetermined rules. There is beauty in knowing that what a traveler experiences in a nonlinear world may never be experienced by anyone else: a certain harmony, an unexpected melody, a coincidental rhythm. There may be sections of the world which are designed to produce more climactic events, and others where events are sparse. In this way a 'map of the world' can be created to prepare for randomness to occur, with clearly marked areas of controlled randomness, an organic system.
+A sound world in which each time it is visited, the traveler enters and exits from unknown points, and traverses its areas in an unknown order. A world of this type has a series of sounds which overlap and bleed into each other, so that no matter where the traveler goes, the world remains a coherent whole. 
+
+Predetermined variations can be included which are not experienced each visit, as well as random elements to sounds which are never repeated, or even sounds which do not appear each visit (verse . There is an element of probability here which will be controlled with predetermined rules. There is beauty in knowing that what a traveler experiences in a nonlinear world may never be experienced by anyone else: a certain harmony, an unexpected melody, a coincidental rhythm. There may be sections of the world which are designed to produce more climactic events, and others where events are sparse. In this way a 'map of the world' can be created to prepare for randomness to occur, with clearly marked areas of controlled randomness, an organic system.
 
 ## On Randomness
 For a world to seem real, there must be a certain amount of unpredictability, the feeling that things are happening irrespective of the traveler, and maybe even events that surprise the characters of the world.
