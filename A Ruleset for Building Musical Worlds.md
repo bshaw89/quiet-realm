@@ -55,3 +55,15 @@ For the purposes of this ruleset, each sound world should begin by creating a se
 
 # Duality and Contradiction
 One rule for this project will be to try to include elements that exist in contradiction to each other (soft/loud, light/dark, etc.), with the idea that 'mastery is being able to hold two contradictory forces or elements in balance.' Chiaro/scuro. This is part of the in-between.
+
+# Evolving Sounds
+Each sound should change, grow, diminish, evolve as the traveler moves past it in Time, as if seeing it from new angles, and as the sound approaches and retreats from Events. In this way sounds are alive. (changing vowels with the voice, randomness within synths, envelopes, overtones added or removed)
+
+## Fading In/Out
+Each sound could fade in and fade out, creating a sense of moving through a world.
+
+# Rests
+Any traveler will pause to rest at times while exploring. A sound world should allow for the same with ambient sections.
+
+# Combining Two Random Ideas
+Trying to make sense of how two unrelated ideas fit together can birth a unique new idea. Combine pairs of unrelated ideas.
