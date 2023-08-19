@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40fb388c3ac4a829",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,6 +85,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1523b256e8076c85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -167,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a651c273a6726b83",
+  "active": "40fb388c3ac4a829",
   "lastOpenFiles": [
     "2023-08-16.md",
     "000 Index.md"
