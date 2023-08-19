@@ -1,8 +1,14 @@
 ----
-# Sound World
+# Definitons
+### Sound World
 A sound world is an auditory space which exists for a limited time. Sonic events happen in this world on a timeline, which the traveler usually explores in a linear direction in the instance of recorded worlds for listening, as opposed to recorded worlds for inhabiting. Nonlinear sound worlds are explored either through random pathways, or through pathways chosen by the traveler.
 
-# Direction of Time
+### Traveler
+A person who enters the sound world through listening.
+
+### Visit
+A visit is a period of time in which the traveler enters, explores, and exits the sound world. In other words, a single listen of a sound world.
+## Direction of Time
 By default, a sound world is explored by the traveler in a linear direction, entering the sound world each visit from the same point and leaving through the same exit, passing by all the areas of the world in an order that never changes.
 
 # Agency of the Traveler
@@ -24,7 +30,7 @@ Variation with each visit to a linear sound world is created by what the travele
 #### On Small Worlds
 >*Is a single note a world? It has an entrance and an exit and a sound, so in theory, yes. Whether it is traversable depends on length -- the length of a sound determines whether a traveler has time to enter, explore, and exit. A short single note does not seem to contain a world that is traversable; for a single sound, a minimum length is required, or a minimum of two sounds if length is very short. It may be that the ability to repeatedly visit a world is more important in the case of very small worlds such as these.*
 
-#### Number of Sounds
+#### Number of Sounds or World Density
 	This is a matter of preference, but for the purposes of creating a ruleset, heed the following: 
 *A world should be made of only as many sounds as do not obscure each other.*
 
@@ -43,7 +49,9 @@ Events are usually transitions within the sound world. The traveler moves from o
 A world that is traversable, deep, unobscured, allows for a complex experience for the traveler.
 
 #### Nonlinear Worlds
-A sound world in which each time it is visited, the traveler enters and exits from unknown points, and traverses its areas in an unknown order. A world of this type has a series of sounds which overlap and bleed into each other, so that no matter where the traveler goes, the world remains a coherent whole. Predetermined variations can be included which are not experience each visit, as well as random elements to sounds which are never repeated, or even sounds which do not appear each visit. There is an element of probability here which will be controlled with predetermined rules. There is beauty in knowing that what a traveler experiences in a nonlinear world may never be experienced by anyone else: a certain harmony, an unexpected melody, a coincidental rhythm. There may be sections of the world which are designed to produce more climactic events, and others where events are sparse. In this way a 'map of the world' can be created to prepare for randomness to occur, with clearly marked areas of controlled randomness, an organic system.
+A sound world in which each time it is visited, the traveler enters and exits from unknown points, and traverses its areas in an unknown order. A world of this type has a series of sounds which overlap and bleed into each other, so that no matter where the traveler goes, the world remains a coherent whole. 
+
+Predetermined variations can be included which are not experienced each visit, as well as random elements to sounds which are never repeated, or even sounds which do not appear each visit (verse . There is an element of probability here which will be controlled with predetermined rules. There is beauty in knowing that what a traveler experiences in a nonlinear world may never be experienced by anyone else: a certain harmony, an unexpected melody, a coincidental rhythm. There may be sections of the world which are designed to produce more climactic events, and others where events are sparse. In this way a 'map of the world' can be created to prepare for randomness to occur, with clearly marked areas of controlled randomness, an organic system.
 
 ## On Randomness
 For a world to seem real, there must be a certain amount of unpredictability, the feeling that things are happening irrespective of the traveler, and maybe even events that surprise the characters of the world.
@@ -52,3 +60,22 @@ This ruleset prescribes randomness within a set of carefully crafted parameters 
 
 ## Mystery
 For the purposes of this ruleset, each sound world should begin by creating a sense of curiosity within the traveler. This can be achieved through History, and especially through placing only a single character within the entrance to the world. The character should be starting to say something, the meaning of which is yet unknown.
+
+# Duality and Contradiction
+One rule for this project will be to try to include elements that exist in contradiction to each other (soft/loud, light/dark, etc.), with the idea that 'mastery is being able to hold two contradictory forces or elements in balance.' Chiaro/scuro. This is part of the in-between.
+
+# Evolving Sounds
+Each sound should change, grow, diminish, evolve as the traveler moves past it in Time, as if seeing it from new angles, and as the sound approaches and retreats from Events. In this way sounds are alive. (changing vowels with the voice, randomness within synths, envelopes, overtones added or removed)
+
+## Fading In/Out
+Each sound could fade in and fade out, creating a sense of moving through a world.
+
+# Rests
+Any traveler will pause to rest at times while exploring. A sound world should allow for the same with ambient sections.
+
+# Combining Two Random Ideas
+Trying to make sense of how two unrelated ideas fit together can birth a unique new idea. Combine pairs of unrelated ideas.
+
+
+# Nonlinearity and Power
+One way to do nonlinear worldbuilding could be to consider power struggles between the sounds or 'characters' of the world. Each visit, different characters may win power, therefore they are the ones who feature more prominently in the world.
