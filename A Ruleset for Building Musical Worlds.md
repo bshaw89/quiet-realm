@@ -61,6 +61,15 @@ This ruleset prescribes randomness within a set of carefully crafted parameters 
 ## Mystery
 For the purposes of this ruleset, each sound world should begin by creating a sense of curiosity within the traveler. This can be achieved through History, and especially through placing only a single character within the entrance to the world. The character should be starting to say something, the meaning of which is yet unknown.
 
+To seek an answer to a mystery is one of the greatest pleasures and powers. Create this seeking in the sound world.
+
+- say words that are indiscernible
+- ambiguity in instruments (one instrument sounding like another)
+- indistinct harmonies
+
+## Locus
+- imagining doing things in an imaginary space as a way to remember things. Place the things somewhere in an imaginary space.
+
 # Duality and Contradiction
 One rule for this project will be to try to include elements that exist in contradiction to each other (soft/loud, light/dark, etc.), with the idea that 'mastery is being able to hold two contradictory forces or elements in balance.' Chiaro/scuro. This is part of the in-between.
 
