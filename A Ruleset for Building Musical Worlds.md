@@ -88,3 +88,6 @@ Trying to make sense of how two unrelated ideas fit together can birth a unique 
 
 # Nonlinearity and Power
 One way to do nonlinear worldbuilding could be to consider power struggles between the sounds or 'characters' of the world. Each visit, different characters may win power, therefore they are the ones who feature more prominently in the world.
+
+# Deterioration
+Slowly deteriorating over time (harmonic stability / bit crusher intensity). Nothing built lasts.
