@@ -1,5 +1,5 @@
 ----
-# Definitons
+# Definitions
 ### Sound World
 A sound world is an auditory space which exists for a limited time. Sonic events happen in this world on a timeline, which the traveler usually explores in a linear direction in the instance of recorded worlds for listening, as opposed to recorded worlds for inhabiting. Nonlinear sound worlds are explored either through random pathways, or through pathways chosen by the traveler.
 
@@ -61,6 +61,15 @@ This ruleset prescribes randomness within a set of carefully crafted parameters 
 ## Mystery
 For the purposes of this ruleset, each sound world should begin by creating a sense of curiosity within the traveler. This can be achieved through History, and especially through placing only a single character within the entrance to the world. The character should be starting to say something, the meaning of which is yet unknown.
 
+To seek an answer to a mystery is one of the greatest pleasures and powers. Create this seeking in the sound world.
+
+- say words that are indiscernible
+- ambiguity in instruments (one instrument sounding like another)
+- indistinct harmonies
+
+## Locus
+- imagining doing things in an imaginary space as a way to remember things. Place the things somewhere in an imaginary space.
+
 # Duality and Contradiction
 One rule for this project will be to try to include elements that exist in contradiction to each other (soft/loud, light/dark, etc.), with the idea that 'mastery is being able to hold two contradictory forces or elements in balance.' Chiaro/scuro. This is part of the in-between.
 
@@ -80,6 +89,7 @@ Trying to make sense of how two unrelated ideas fit together can birth a unique 
 # Nonlinearity and Power
 One way to do nonlinear worldbuilding could be to consider power struggles between the sounds or 'characters' of the world. Each visit, different characters may win power, therefore they are the ones who feature more prominently in the world.
 
+<<<<<<< HEAD
 # Evolving Rhythms
 Some worlds will have a chance to develop rhythms. When a rhythmic element/event/character begins, it triggers a probability to continue to develop that sequence into a full rhythmic segment.
 
@@ -89,3 +99,7 @@ Certain events will only trigger randomly. If they trigger during live performan
 # Lyric Variation
 A bank of lyrics can be queried to randomly select passages or words each time a vocal character or event appears.
 
+=======
+# Deterioration
+Slowly deteriorating over time (harmonic stability / bit crusher intensity). Nothing built lasts.
+>>>>>>> origin/main
