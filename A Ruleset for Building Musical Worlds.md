@@ -100,3 +100,11 @@ A bank of lyrics can be queried to randomly select passages or words each time a
 
 # Deterioration
 Slowly deteriorating over time (harmonic stability / bit crusher intensity). Nothing built lasts.
+
+
+# Ideas for Individual Worlds
+1. A nonlinear world which the traveler enters from a different point each visit and explores in a varying order.
+2. A nonlinear world which begins from the same entry point each visit but the sounds vie for dominance so that different sounds and events feature more prominently by the end of each visit.
+3. A nonlinear world in which the lyrical content is randomized to an extent.
+4. A nonlinear world composed of overlapping choral sounds which move through different harmonic areas each visit.
+5. A nonlinear world of organic sound samples which are manipulated differently each visit. (possible?)
