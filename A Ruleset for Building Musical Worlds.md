@@ -89,7 +89,6 @@ Trying to make sense of how two unrelated ideas fit together can birth a unique 
 # Nonlinearity and Power
 One way to do nonlinear worldbuilding could be to consider power struggles between the sounds or 'characters' of the world. Each visit, different characters may win power, therefore they are the ones who feature more prominently in the world.
 
-<<<<<<< HEAD
 # Evolving Rhythms
 Some worlds will have a chance to develop rhythms. When a rhythmic element/event/character begins, it triggers a probability to continue to develop that sequence into a full rhythmic segment.
 
@@ -99,7 +98,5 @@ Certain events will only trigger randomly. If they trigger during live performan
 # Lyric Variation
 A bank of lyrics can be queried to randomly select passages or words each time a vocal character or event appears.
 
-=======
 # Deterioration
 Slowly deteriorating over time (harmonic stability / bit crusher intensity). Nothing built lasts.
->>>>>>> origin/main
