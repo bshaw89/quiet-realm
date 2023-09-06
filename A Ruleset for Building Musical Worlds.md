@@ -10,9 +10,18 @@ A person who enters the sound world through listening. You are the traveler.
 A visit is a period of time during which the traveler enters, explores, and exits the sound world. In other words, a single listening of a sound world.
 
 ### Character
-A sound or instrument that represents an entity within the sound world. A character can be sentient or 
+A sound or instrument that represents an entity within the sound world. A character can be sentient or inanimate.
 
-## Direction of Time
+### Event
+A moment which causes the characters of the sound world to react.
+
+### Linear World
+A traveler takes the same path through the world each visit.
+
+### Nonlinear World
+A traveler takes a different path through the world each visit, encountering different characters and events.
+
+## Direction of Travel
 By default, a sound world is explored by the traveler in a linear direction, entering the sound world each visit from the same point and leaving through the same exit, passing by all the areas of the world in an order that never changes.
 
 
