@@ -11,6 +11,9 @@ A visit is a period of time in which the traveler enters, explores, and exits th
 ## Direction of Time
 By default, a sound world is explored by the traveler in a linear direction, entering the sound world each visit from the same point and leaving through the same exit, passing by all the areas of the world in an order that never changes.
 
+
+# Characters
+Characters (sounds or instruments) will be described with analogue synthesis.
 # Agency of the Traveler
 The traveler does not typically have much agency within a sound world itself, only making choices in the thoughts or pre-existing emotions they bring with them, and any external factors used to augment the visit (mood lighting, being alone or in company, walking or sitting, etc.)
 
@@ -70,33 +73,33 @@ To seek an answer to a mystery is one of the greatest pleasures and powers. Crea
 ## Locus
 - imagining doing things in an imaginary space as a way to remember things. Place the things somewhere in an imaginary space.
 
-# Duality and Contradiction
+## Duality and Contradiction
 One rule for this project will be to try to include elements that exist in contradiction to each other (soft/loud, light/dark, etc.), with the idea that 'mastery is being able to hold two contradictory forces or elements in balance.' Chiaro/scuro. This is part of the in-between.
 
-# Evolving Sounds
+## Evolving Sounds
 Each sound should change, grow, diminish, evolve as the traveler moves past it in Time, as if seeing it from new angles, and as the sound approaches and retreats from Events. In this way sounds are alive. (changing vowels with the voice, randomness within synths, envelopes, overtones added or removed)
 
-## Fading In/Out
+### Fading In/Out
 Each sound could fade in and fade out, creating a sense of moving through a world.
 
-# Rests
+## Rests
 Any traveler will pause to rest at times while exploring. A sound world should allow for the same with ambient sections.
 
-# Combining Two Random Ideas
+## Combining Two Random Ideas
 Trying to make sense of how two unrelated ideas fit together can birth a unique new idea. Combine pairs of unrelated ideas.
 
 
-# Nonlinearity and Power
+## Nonlinearity and Power
 One way to do nonlinear worldbuilding could be to consider power struggles between the sounds or 'characters' of the world. Each visit, different characters may win power, therefore they are the ones who feature more prominently in the world.
 
-# Evolving Rhythms
+## Evolving Rhythms
 Some worlds will have a chance to develop rhythms. When a rhythmic element/event/character begins, it triggers a probability to continue to develop that sequence into a full rhythmic segment.
 
-# Live Performance
+## Live Performance
 Certain events will only trigger randomly. If they trigger during live performance, the performer can react to that trigger and begin the accompanying part. This makes each performance unique.
 
-# Lyric Variation
+## Lyric Variation
 A bank of lyrics can be queried to randomly select passages or words each time a vocal character or event appears.
 
-# Deterioration
+## Deterioration
 Slowly deteriorating over time (harmonic stability / bit crusher intensity). Nothing built lasts.
