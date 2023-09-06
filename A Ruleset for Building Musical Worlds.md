@@ -4,10 +4,14 @@
 A sound world is an auditory space which exists for a limited time. Sonic events happen in this world on a timeline, which the traveler usually explores in a linear direction in the instance of recorded worlds for listening, as opposed to recorded worlds for inhabiting. Nonlinear sound worlds are explored either through random pathways, or through pathways chosen by the traveler.
 
 ### Traveler
-A person who enters the sound world through listening.
+A person who enters the sound world through listening. You are the traveler.
 
 ### Visit
-A visit is a period of time in which the traveler enters, explores, and exits the sound world. In other words, a single listen of a sound world.
+A visit is a period of time during which the traveler enters, explores, and exits the sound world. In other words, a single listening of a sound world.
+
+### Character
+A sound or instrument that represents an entity within the sound world. A character can be sentient or 
+
 ## Direction of Time
 By default, a sound world is explored by the traveler in a linear direction, entering the sound world each visit from the same point and leaving through the same exit, passing by all the areas of the world in an order that never changes.
 
