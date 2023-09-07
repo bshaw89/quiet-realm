@@ -27,7 +27,7 @@ By default, an s-world is explored by the traveler in a linear direction, enteri
 # Characters
 Characters (sounds or instruments) will be described with analogue synthesis.
 # Agency of the Traveler
-The traveler does not typically have much agency within a sound world itself, only making choices in the thoughts or pre-existing emotions they bring with them, and any external factors used to augment the visit (mood lighting, being alone or in company, walking or sitting, etc.)
+The traveler does not typically have much agency within an s-world itself, only making choices in the thoughts or pre-existing emotions they bring with them, and any external factors used to augment the visit (mood lighting, being alone or in company, walking or sitting or dancing, etc.)
 
 # Dark vs Light Listening
 Dark listening is when the traveler enters the world with closed eyes and maintains this state until exiting the world. Light listening is when the traveler enters with eyes open and leaves them open until exiting, fixing their sight either on one particular view, or observing a variety of visuals while simultaneously traversing the sound world.
@@ -43,7 +43,7 @@ Variation with each visit to a linear sound world is created by what the travele
 	The sound must exist for a unit of time. This makes the landscape traversable.
 
 #### On Small Worlds
->*Is a single note a world? It has an entrance and an exit and a sound, so in theory, yes. Whether it is traversable depends on length -- the length of a sound determines whether a traveler has time to enter, explore, and exit. A short single note does not seem to contain a world that is traversable; for a single sound, a minimum length is required, or a minimum of two sounds if length is very short. It may be that the ability to repeatedly visit a world is more important in the case of very small worlds such as these.*
+>*Is a single note a world? It has an entrance and an exit and a sound, so in theory, yes. Whether it is traversable depends on length -- the length of a sound determines whether a traveler has time to enter, explore, and exit. A short single note does not seem to contain a world that is traversable; for a single sound, a minimum length is required, or a minimum of two sounds if length is very short. It may be that the ability to repeatedly visit a world is more important in the case of very small worlds such as these (loops).*
 
 #### Number of Sounds or World Density
 	This is a matter of preference, but for the purposes of creating a ruleset, heed the following: 
