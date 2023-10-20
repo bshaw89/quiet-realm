@@ -41,9 +41,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a6336e24b0c37b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46dc504465118c8b",
+  "active": "2a6336e24b0c37b0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "A Ruleset for Building Musical Worlds.md",
