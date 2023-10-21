@@ -41,9 +41,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17cce45c7751db26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,6 +178,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "04db3aaf340b7137",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -186,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46dc504465118c8b",
+  "active": "17cce45c7751db26",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "A Ruleset for Building Musical Worlds.md",
