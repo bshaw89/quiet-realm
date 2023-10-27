@@ -41,19 +41,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "17cce45c7751db26",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17cce45c7751db26",
+  "active": "46dc504465118c8b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "A Ruleset for Building Musical Worlds.md",
